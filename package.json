@@ -1,0 +1,19 @@
+{
+  "name": "npm-test-logger",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/dev-gaur-2002/npmtestLogger.git)"
+  },
+  "keywords": [
+    "NPM",
+    "logger"
+  ],
+  "author": "dev gaur",
+  "license": "ISC"
+}
